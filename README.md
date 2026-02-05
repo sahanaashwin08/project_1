@@ -47,7 +47,7 @@ A database is a system used to store and manage data permanently.
 
 __Role in this output__:
 All product information, including names, prices, images, and categories, is stored and retrieved from the database.
-http://127.0.0.1:5500/git/html-css-javascript-website/e-commer-website/home.html
+
 
 ##output##
 http://127.0.0.1:5500/git/html-css-javascript-website/e-commer-website/home.html
